@@ -1,0 +1,28 @@
+#include <iostream>
+
+using namespace std;
+
+int main (){
+
+int e;
+cout<<"write your age";
+cin>> e;
+
+if (e>18){
+
+cout<<"you are hold";
+
+
+
+}
+
+else (e<18) {
+    cout<<"you are a child";
+
+
+}
+
+
+
+    return 0;
+}
